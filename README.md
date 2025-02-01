@@ -20,11 +20,10 @@ A task management board built using **React** for the frontend and **Node.js wit
 - **Backend**:
   - Node.js
   - Express.js
-  - MongoDB (for storing tasks and categories)
+  - MongoDB Atlas(for storing tasks and categories)
 
-- **Others**:
-  - JWT for authentication (if applicable)
-  - Mongoose (for MongoDB data modeling)
+- **authentication**:
+  - JWT for authentication 
 
 ### Clone the repository
 
