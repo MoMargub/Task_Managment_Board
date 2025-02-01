@@ -27,13 +27,13 @@ A task management board built using **React** for the frontend and **Node.js wit
   - JWT for authentication (if applicable)
   - Mongoose (for MongoDB data modeling)
 
-## Setup Instructions
-
-- do `npm i` for front-end and backend both.
-- then open it into a different code editors and run the `npm start` command.
-
 ### Clone the repository
 
 ```bash
 git clone https://github.com/MoMargub/Task_Managment_Board.git
-cd Task_Managment_Board
+
+```
+## Setup Instructions
+
+- do `npm i` for front-end and backend both.
+- then open it into a different code editors and run the `npm start` command.
