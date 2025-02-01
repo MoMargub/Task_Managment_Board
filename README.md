@@ -22,7 +22,7 @@ A task management board built using **React** for the frontend and **Node.js wit
   - Express.js
   - MongoDB Atlas(for storing tasks and categories)
 
-- **authentication**:
+- **Authentication**:
   - JWT for authentication 
 
 ### Clone the repository
