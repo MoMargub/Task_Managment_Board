@@ -16,7 +16,6 @@ A task management board built using **React** for the frontend and **Node.js wit
   - React.js
   - React Router (for navigation)
   - Axios (for API requests)
-  - CSS/SCSS (for styling)
   
 - **Backend**:
   - Node.js
